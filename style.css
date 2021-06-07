@@ -1,0 +1,52 @@
+div#outer-area {
+    width: 700px;
+    margin: 50px auto;
+    height: 800px;
+    padding-top: 2px;
+    background-color:cadetblue;
+}
+div#To-do-box {
+    width: 70%;
+    height: 70%;
+    margin: 10% auto;
+    padding: 5%;
+    background-color: lightcyan;
+    color: 5px solid;
+}
+#input-section {
+    border: lightgrey 5px solid;
+    height: 40px;
+    padding: 0;
+    background-color: rgba(255, 0, 255, 0.445);
+}
+input {
+    height: 85%;
+    width: 80%;
+    padding-left: 20px;
+    font-size: 20px;
+}
+button#addBtn {
+    font-weight: bold;
+    height: 1.8rem;
+    width: 3.2rem;
+    background-color: rgba(255, 0, 255, 0.445);
+    font-size: 1rem;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 1.3rem;
+}
+
+li {
+    margin: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    height: 1.2rem;
+}
+img#delete_icon {
+    height: 1.7rem;
+}
